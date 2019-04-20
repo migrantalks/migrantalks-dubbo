@@ -8,7 +8,7 @@ import org.springframework.context.annotation.ImportResource;
 
 /**
  * dubbo consumer 主程序
- * @Author: zgs
+ * @Author: migrantalks
  * @date 2019/04/19
  **/
 @SpringBootApplication

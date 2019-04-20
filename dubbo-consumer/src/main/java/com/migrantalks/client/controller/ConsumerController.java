@@ -9,12 +9,12 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * dubbo client 测试
- * @author zgs
+ * @author migrantalks
  * @date 2019/04/19
  */
 @RestController
 @RequestMapping("/")
-public class TestController {
+public class ConsumerController {
 
     @Reference(version = "1.0")
     IUserService userService;
