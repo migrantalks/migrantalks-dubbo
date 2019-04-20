@@ -10,7 +10,7 @@ import javax.ws.rs.Path;
 
 /**
  * dubbo service
- * @author zgs
+ * @author migrantalks
  * @date 2019/04/19
  */
 @Service(protocol = {"dubbo","rest"},validation = "true",version = "1.0",timeout = 3000)

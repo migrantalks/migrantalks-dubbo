@@ -10,7 +10,7 @@ import org.springframework.context.annotation.ImportResource;
 
 /**
  * dubbo provider 主程序
- * @author zgs
+ * @author migrantalks
  * @date 2019/04/19
  **/
 @SpringBootApplication
