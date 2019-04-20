@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 /**
  * 响应结果
- * @Author: zgs
+ * @Author: migrantalks
  * @data 2019/04/19
  **/
 public class Result<T> implements Serializable{

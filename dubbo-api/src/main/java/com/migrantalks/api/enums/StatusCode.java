@@ -2,7 +2,7 @@ package com.migrantalks.api.enums;
 
 /**
  * 结果状态码
- * @Author: zgs
+ * @Author: migrantalks
  * @data 2019/04/19
  **/
 public enum  StatusCode {

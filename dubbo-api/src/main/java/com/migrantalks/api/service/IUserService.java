@@ -4,7 +4,7 @@ import com.migrantalks.api.response.Result;
 
 /**
  * 对外请求接口
- * @author zgs
+ * @author migrantalks
  * @data 2019/04/19
  */
 public interface IUserService {
